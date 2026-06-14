@@ -138,10 +138,6 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"/>
-</div>
-
-<div align="center">
   <br/><br/>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1"/>
 </div>
