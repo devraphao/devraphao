@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Desenvolvedor iniciante com foco em criar soluções funcionais e bem construídas. Trabalho principalmente com **Python** e **JavaScript**, e tenho interesse em desenvolvimento web e automação. Uso **Linux** como sistema principal no dia a dia.
+Desenvolvedor iniciante (Back-End) com foco em criar soluções funcionais e bem construídas. Trabalho principalmente com **Python** e **JavaScript**, e tenho interesse em desenvolvimento web e automação. Uso **Linux** como sistema principal no dia a dia.
 
 ---
 
