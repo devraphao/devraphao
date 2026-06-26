@@ -25,7 +25,7 @@ Desenvolvedor iniciante com foco em criar soluções funcionais e bem construíd
 <div align="center">
 
 | Linguagem | Uso principal |
-|---|---|---|
+|---|---|
 | 🐍 **Python** | Automação, scripts, back-end |
 | 🌐 **JavaScript** | Interatividade web, lógica de front-end |
 | 🏗️ **HTML** | Estruturação de páginas web |
