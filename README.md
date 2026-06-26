@@ -26,10 +26,10 @@ Desenvolvedor iniciante com foco em criar soluções funcionais e bem construíd
 
 | Linguagem | Nível | Uso principal |
 |---|---|---|
-| 🐍 **Python** | Iniciante | Automação, scripts, back-end |
-| 🌐 **JavaScript** | Iniciante | Interatividade web, lógica de front-end |
-| 🏗️ **HTML** | Iniciante | Estruturação de páginas web |
-| 🎨 **CSS** | Iniciante | Estilização e layout de interfaces |
+| 🐍 **Python** | Automação, scripts, back-end |
+| 🌐 **JavaScript** | Interatividade web, lógica de front-end |
+| 🏗️ **HTML** | Estruturação de páginas web |
+| 🎨 **CSS** | Estilização e layout de interfaces |
 
 </div>
 
