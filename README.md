@@ -6,7 +6,7 @@
 
 ---
 
-Olá! Sou o **Raphael**, desenvolvedor back-end em início de jornada, apaixonado por construir coisas que funcionam de verdade. Trabalho no **Linux** e estou sempre aprendendo algo novo a cada commit. 🐧
+Olá! Sou o **Raphael**, desenvolvedor back-end em início de jornada, apaixonado por construir coisas que funcionam de verdade. Trabalho Utilizando **Linux** e estou sempre aprendendo algo novo a cada commit. 🐧
 
 ---
 
