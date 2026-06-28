@@ -16,7 +16,7 @@
 
 ## Sobre
 
-desenvolvedor back-end focado em construir sistemas que funcionam de verdade.  
+Olá! Meu Nome é Raphael Henrique, Sou Desenvolvedor back-end focado em construir sistemas que funcionam de verdade.  
 trabalho principalmente com Python e JavaScript, mas não fujo de Java quando precisa.  
 Linux no dia a dia, terminal aberto, café do lado.
 
