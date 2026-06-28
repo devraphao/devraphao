@@ -14,7 +14,7 @@
 
 <br/>
 
-## sobre
+## Sobre
 
 desenvolvedor back-end focado em construir sistemas que funcionam de verdade.  
 trabalho principalmente com Python e JavaScript, mas não fujo de Java quando precisa.  
@@ -22,7 +22,7 @@ Linux no dia a dia, terminal aberto, café do lado.
 
 <br/>
 
-## linguagens
+## Linguagens
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Linux no dia a dia, terminal aberto, café do lado.
 
 <br/>
 
-## ferramentas & ambiente
+## Ferramentas & Ambiente
 
 <div align="center">
 
@@ -49,28 +49,13 @@ Linux no dia a dia, terminal aberto, café do lado.
 ![Electron](https://img.shields.io/badge/Electron-0b0b0b?style=for-the-badge&logo=electron&logoColor=47848F)
 ![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0b0b0b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0b0b0b?style=for-the-badge&logo=intellijidea&logoColor=FE315D)
 
 </div>
 
 <br/>
 
-## projetos em destaque
-
-<div align="center">
-
-| projeto | descrição | tecnologias |
-|:--|:--|:--|
-| [**smart-backup**](https://github.com/uraphaum/smart-backup) | automação de backup com verificação de integridade e logs | Python · Bash |
-| [**pc-health-monitor**](https://github.com/uraphaum/pc-health-monitor) | monitor em tempo real de CPU, RAM e disco | Python · psutil |
-| [**file-organizer**](https://github.com/uraphaum/file-organizer) | CLI que organiza arquivos com suporte a undo e dry-run | Python |
-| [**auruda-bot**](https://github.com/uraphaum/auruda-bot) | bot Discord com moderação, economia, perfil e casamento | Python · discord.py |
-| [**3d-heart**](https://github.com/uraphaum/3d-heart) | coração 3D interativo com animações | Electron · Three.js |
-
-</div>
-
-<br/>
-
-## estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -82,7 +67,7 @@ Linux no dia a dia, terminal aberto, café do lado.
 
 <br/>
 
-## contato
+## Contato
 
 <div align="center">
 
