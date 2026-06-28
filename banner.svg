@@ -1,0 +1,68 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="300" fill="#0b0b0b"/>
+
+  <line x1="55" y1="38" x2="845" y2="38" stroke="#2a2a2a" stroke-width="0.6"/>
+  <line x1="55" y1="43" x2="845" y2="43" stroke="#161616" stroke-width="0.3"/>
+
+  <line x1="55" y1="28" x2="55" y2="53" stroke="#2a2a2a" stroke-width="0.6"/>
+  <line x1="44" y1="40" x2="66" y2="40" stroke="#2a2a2a" stroke-width="0.6"/>
+  <circle cx="55" cy="40" r="3" fill="none" stroke="#222" stroke-width="0.6"/>
+
+  <line x1="845" y1="28" x2="845" y2="53" stroke="#2a2a2a" stroke-width="0.6"/>
+  <line x1="834" y1="40" x2="856" y2="40" stroke="#2a2a2a" stroke-width="0.6"/>
+  <circle cx="845" cy="40" r="3" fill="none" stroke="#222" stroke-width="0.6"/>
+
+  <polygon points="450,28 457,40 450,52 443,40" fill="none" stroke="#252525" stroke-width="0.7"/>
+
+  <line x1="78" y1="60" x2="78" y2="240" stroke="#181818" stroke-width="0.4"/>
+  <line x1="822" y1="60" x2="822" y2="240" stroke="#181818" stroke-width="0.4"/>
+
+  <text x="450" y="128"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="58"
+    font-weight="300"
+    letter-spacing="16"
+    fill="#c4c4c4"
+    text-anchor="middle"
+    dominant-baseline="middle">RAPHAEL</text>
+
+  <line x1="220" y1="150" x2="680" y2="150" stroke="#222" stroke-width="0.5"/>
+  <circle cx="450" cy="150" r="2" fill="#282828"/>
+
+  <text x="450" y="178"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="11"
+    letter-spacing="8"
+    fill="#424242"
+    text-anchor="middle">BACK-END DEVELOPER</text>
+
+  <text x="450" y="210"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="9.5"
+    letter-spacing="4"
+    fill="#272727"
+    text-anchor="middle">Python · JavaScript · Java · HTML · CSS · React</text>
+
+  <text x="450" y="238"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="9"
+    font-style="italic"
+    letter-spacing="2"
+    fill="#1e1e1e"
+    text-anchor="middle">here lies code that once worked</text>
+
+  <line x1="55" y1="258" x2="845" y2="258" stroke="#2a2a2a" stroke-width="0.6"/>
+  <line x1="55" y1="263" x2="845" y2="263" stroke="#161616" stroke-width="0.3"/>
+
+  <line x1="55" y1="248" x2="55" y2="273" stroke="#2a2a2a" stroke-width="0.6"/>
+  <line x1="44" y1="260" x2="66" y2="260" stroke="#2a2a2a" stroke-width="0.6"/>
+  <circle cx="55" cy="260" r="3" fill="none" stroke="#222" stroke-width="0.6"/>
+
+  <line x1="845" y1="248" x2="845" y2="273" stroke="#2a2a2a" stroke-width="0.6"/>
+  <line x1="834" y1="260" x2="856" y2="260" stroke="#2a2a2a" stroke-width="0.6"/>
+  <circle cx="845" cy="260" r="3" fill="none" stroke="#222" stroke-width="0.6"/>
+
+  <polygon points="450,248 457,260 450,272 443,260" fill="none" stroke="#252525" stroke-width="0.7"/>
+
+</svg>
