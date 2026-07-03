@@ -41,7 +41,7 @@ linux no dia a dia, terminal aberto, café do lado.
 
 ---
 
-## Frameworks & Bibliotecas
+## Frameworks
 
 <div align="center">
 
