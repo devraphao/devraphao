@@ -89,14 +89,6 @@ linux no dia a dia, terminal aberto, café do lado.
 
 ---
 
-## Atividade
-
 <div align="center">
-
-</div>
-
----
-
-<div align="center">
-<sub>feito com silêncio e muito terminal</sub>
+<sub><3</sub>
 </div>
