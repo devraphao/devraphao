@@ -49,8 +49,6 @@ linux no dia a dia, terminal aberto, café do lado.
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![Three.js](https://img.shields.io/badge/Three.js-0a0a0a?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
 ![Electron](https://img.shields.io/badge/Electron-0a0a0a?style=for-the-badge&logo=electron&logoColor=ffffff)
-![discord.py](https://img.shields.io/badge/discord.py-0a0a0a?style=for-the-badge&logo=discord&logoColor=ffffff)
-![Pillow](https://img.shields.io/badge/Pillow-0a0a0a?style=for-the-badge&logo=python&logoColor=ffffff)
 
 </div>
 
@@ -79,10 +77,6 @@ linux no dia a dia, terminal aberto, café do lado.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uraphaum&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=555555&icon_color=888888&border_color=1f1f1f&rank_icon=github&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uraphaum&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=555555&border_color=1f1f1f&langs_count=6)
-
 </div>
 
 <br/>
@@ -98,8 +92,6 @@ linux no dia a dia, terminal aberto, café do lado.
 ## Atividade
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/uraphaum/uraphaum/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
