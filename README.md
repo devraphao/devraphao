@@ -1,78 +1,70 @@
 <div align="center">
 
-<br>
+<br><br>
 
-# Raphael Henrique
+# raphael henrique
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=450&lines=Back-end+Developer;Java+%7C+Python+%7C+JavaScript;sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
+<sub>back-end developer</sub>
 
 <br>
 
 </div>
 
----
-
 <br>
 
-### sobre
-
-Back-end developer em formação, com curiosidade por front-end também. Gosto de projetos que unem lógica sólida e boa apresentação — desde bots complexos até interfaces com identidade própria.
-
-<br>
-
-### stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=openjdk&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=python&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=javascript&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=react&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=html5&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=css3&logoColor=555555&labelColor=f5f5f5"/>
+<p align="center">
+<img src="https://img.shields.io/badge/-Linux-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
+<img src="https://img.shields.io/badge/-Back--end-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
+<img src="https://img.shields.io/badge/-em%20aprendizado-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
 </p>
-
-<br>
-
-### ferramentas
-
-<p align="left">
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=git&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=github&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=docker&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=postgresql&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=sqlite&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=postman&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=visualstudiocode&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=intellijidea&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=figma&logoColor=555555&labelColor=f5f5f5"/>
-</p>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uraphaum&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=888888&text_color=555555" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uraphaum&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555" width="35%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uraphaum&theme=default&hide_border=true&background=ffffff&stroke=e0e0e0&ring=888888&fire=888888&currStreakLabel=555555" width="60%"/>
+<p align="center">
+gosto de construir projetos completos, do back-end à interface,<br>
+sempre buscando algo funcional e com identidade própria.
+</p>
 
-</div>
-
-<br>
-
----
-
-<br>
+<br><br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=555555&labelColor=f5f5f5"/>
+##
+
+**stack**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,html,css&theme=light" />
+
+<br><br><br>
+
+**ferramentas**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,sqlite,postman,vscode,idea,figma&theme=light" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+##
+
+<img src="https://github-readme-stats.vercel.app/api?username=uraphaum&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=999999&text_color=666666&hide_rank=true" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uraphaum&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&langs_count=6" width="34%"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+##
+
+<img src="https://komarev.com/ghpvc/?username=uraphaum&style=flat-square&color=blueviolet&label=visitas" height="20"/>
 
 <br><br>
 
