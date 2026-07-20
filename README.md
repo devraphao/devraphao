@@ -44,18 +44,6 @@ dados até a interface — sempre com atenção ao detalhe.
 
 </div>
 
-<br>
-
-## `> sistema`
-
-```
-OS ......... Linux
-Foco ....... Back-end
-Status ..... Sempre aprendendo algo novo
-```
-
-<br>
-
 ## `> contato`
 
 <div align="center">
