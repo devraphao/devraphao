@@ -2,9 +2,9 @@
 
 <br><br>
 
-# raphael henrique
+# Raphael Henrique
 
-<sub>back-end developer</sub>
+<sub>Back-end Developer</sub>
 
 <br>
 
@@ -15,13 +15,13 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-Linux-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
 <img src="https://img.shields.io/badge/-Back--end-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
-<img src="https://img.shields.io/badge/-em%20aprendizado-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
+<img src="https://img.shields.io/badge/-Em%20aprendizado-f5f5f5?style=flat-square&logoColor=555555" height="22"/>
 </p>
 
 <br><br>
 
 <p align="center">
-gosto de construir projetos completos, do back-end à interface,<br>
+Gosto de construir projetos completos, do back-end à interface,<br>
 sempre buscando algo funcional e com identidade própria.
 </p>
 
@@ -31,7 +31,7 @@ sempre buscando algo funcional e com identidade própria.
 
 ##
 
-**stack**
+**Stack**
 
 <br>
 
@@ -39,7 +39,7 @@ sempre buscando algo funcional e com identidade própria.
 
 <br><br><br>
 
-**ferramentas**
+**Ferramentas**
 
 <br>
 
@@ -64,10 +64,10 @@ sempre buscando algo funcional e com identidade própria.
 
 ##
 
-<img src="https://komarev.com/ghpvc/?username=uraphaum&style=flat-square&color=blueviolet&label=visitas" height="20"/>
+<img src="https://komarev.com/ghpvc/?username=uraphaum&style=flat-square&color=blueviolet&label=Visitas" height="20"/>
 
 <br><br>
 
-<sub>obrigado pela visita</sub>
+<sub>Obrigado pela visita</sub>
 
 </div>
