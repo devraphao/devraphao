@@ -16,7 +16,7 @@
 
 <br>
 
-## `> sobre`
+## `> Sobre`
 
 ```
 Back-end developer em formação, com boa noção de front-end.
@@ -26,7 +26,7 @@ dados até a interface — sempre com atenção ao detalhe.
 
 <br>
 
-## `> stack`
+## `> Stack`
 
 <div align="center">
 
@@ -36,7 +36,7 @@ dados até a interface — sempre com atenção ao detalhe.
 
 <br>
 
-## `> ferramentas`
+## `> Ferramentas`
 
 <div align="center">
 
@@ -44,7 +44,7 @@ dados até a interface — sempre com atenção ao detalhe.
 
 </div>
 
-## `> contato`
+## `> Contato`
 
 <div align="center">
 
@@ -57,7 +57,7 @@ dados até a interface — sempre com atenção ao detalhe.
 <div align="center">
 
 ```
-> obrigado pela visita_
+> Obrigado pela visita_ :3
 ```
 
 </div>
