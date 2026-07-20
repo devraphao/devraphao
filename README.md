@@ -23,12 +23,12 @@ Back-end developer em formação, com curiosidade por front-end também. Gosto d
 ### stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=openjdk&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=css3&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=openjdk&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=python&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=javascript&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=react&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=html5&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=css3&logoColor=555555&labelColor=f5f5f5"/>
 </p>
 
 <br>
@@ -36,15 +36,15 @@ Back-end developer em formação, com curiosidade por front-end também. Gosto d
 ### ferramentas
 
 <p align="left">
-<img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/SQLite-ffffff?style=flat-square&logo=sqlite&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/Postman-ffffff?style=flat-square&logo=postman&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/VS%20Code-ffffff?style=flat-square&logo=visualstudiocode&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-ffffff?style=flat-square&logo=intellijidea&logoColor=555555&labelColor=f5f5f5"/>
-<img src="https://img.shields.io/badge/Figma-ffffff?style=flat-square&logo=figma&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=git&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=github&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=docker&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=postgresql&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=sqlite&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=postman&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=visualstudiocode&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=intellijidea&logoColor=555555&labelColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=figma&logoColor=555555&labelColor=f5f5f5"/>
 </p>
 
 <br>
