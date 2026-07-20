@@ -1,94 +1,103 @@
 <div align="center">
-  <img src="banner.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Raphael%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Back-end%20Developer&descAlignY=60&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%3E+cultivando+c%C3%B3digo+na+escurid%C3%A3o;%3E+back-end+developer+em+forma%C3%A7%C3%A3o;%3E+sempre+iterando%2C+sempre+aprendendo" alt="Typing SVG" />
+
 </div>
 
-<br/>
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚰ sobre mim
+
+```yaml
+nome: Raphael Henrique
+papel: Back-end Developer (em formação)
+sistema: Linux
+foco: construir, quebrar, reconstruir melhor
+```
+
+Gosto de transformar ideias em projetos completos — de bots com sistemas complexos a interfaces com identidade visual própria. Sempre em movimento entre o técnico e o estético.
+
+</td>
+<td width="50%" valign="top">
+
+### 🕯 tecnologias
+
+<p>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/uraphaum?style=flat-square&color=161616&labelColor=0a0a0a&logo=github&logoColor=ffffff&label=followers)](https://github.com/uraphaum)
-&nbsp;&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=uraphaum&style=flat-square&color=161616&label=views&labelColor=0a0a0a)](https://github.com/uraphaum)
+### 🩸 estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=uraphaum&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uraphaum&theme=dark&hide_border=true&background=0a0a0a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uraphaum&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=c9c9c9" width="45%"/>
 
 </div>
 
-<br/>
-
----
-
-## Sobre
-
-desenvolvedor back-end focado em construir sistemas que funcionam de verdade.
-trabalho principalmente com Python e JavaScript, mas não fujo de Java quando precisa.
-linux no dia a dia, terminal aberto, café do lado.
-
----
-
-## Linguagens
+<br>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+### 🦴 ferramentas do dia a dia
+
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white"/>
 
 </div>
 
----
-
-## Frameworks
+<br>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Three.js](https://img.shields.io/badge/Three.js-0a0a0a?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Electron](https://img.shields.io/badge/Electron-0a0a0a?style=for-the-badge&logo=electron&logoColor=ffffff)
+### 🖤 contribuições
+
+<img src="https://raw.githubusercontent.com/uraphaum/uraphaum/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+<sub>* a animação da cobra é gerada automaticamente via GitHub Actions — configure o workflow oficial se ainda não tiver feito</sub>
 
 </div>
 
----
-
-## Ferramentas & Ambiente
+<br>
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0a0a0a?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=ffffff)
+### ⚱ conecte-se
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<sub>"código é a única linguagem que não mente sobre o que constrói"</sub>
 
 </div>
 
----
-
-## Estatísticas
-
-<div align="center">
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=uraphaum&theme=dark&background=0a0a0a&ring=333333&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&currStreakNum=ffffff&sideNums=555555&dates=333333&border=1f1f1f)
-
-</div>
-
----
-
-<div align="center">
-<sub><3</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=100&section=footer" width="100%"/>
