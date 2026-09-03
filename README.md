@@ -58,11 +58,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=808080)](https://github.com/devraphao)
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="./banner.jpg" width="100%" alt="banner" />
-
-</div>
