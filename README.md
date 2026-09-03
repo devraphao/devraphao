@@ -4,9 +4,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="notebook animado" />
-
-# Olá, eu sou o Raphael
+# Olá, Prazer. Meu Nome é Raphael 💻
 
 **Beginner Back-end Developer**
 
@@ -16,9 +14,9 @@
 
 ## Sobre mim
 
-- Desenvolvedor back-end iniciante, sempre estudando e evoluindo
-- Uso **Arch Linux** com **KDE Plasma** no dia a dia
-- Focado em construir projetos completos, do back ao front
+- ◽ Desenvolvedor back-end iniciante, sempre estudando e evoluindo
+- ◽ Uso **Arch Linux** com **KDE Plasma** no dia a dia
+- ◽ Focado em construir projetos completos, do back ao front
 
 <br>
 
