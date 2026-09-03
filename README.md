@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./banner.jpg" width="100%" alt="banner" />
+
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="notebook animado" />
 
 # Olá, eu sou o Raphael
@@ -33,10 +37,32 @@
 
 <br>
 
+## Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=808080" height="32" alt="Linux" />
+<img src="https://img.shields.io/badge/Arch_Linux-FFFFFF?style=for-the-badge&logo=archlinux&logoColor=808080" height="32" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=808080" height="32" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=808080" height="32" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=808080" height="32" alt="Git" />
+
+</div>
+
+<br>
+
 ## Contato
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=808080)](https://github.com/devraphao)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./banner.jpg" width="100%" alt="banner" />
 
 </div>
